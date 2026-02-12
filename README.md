@@ -1,4 +1,6 @@
 # Hi, I'm Burdzhu!
+[**Click here to access my page.**](https://burcucglyn.github.io)
+
 
 Environmental engineer turned data scientist. I enjoy the part most people skip: cleaning the mess, finding structure, building pipelines that don't break. Numbers are easy. Reading them honestly, accounting for bias, spotting what others miss: that's the real work. My engineering background means I solve problems and build things that work reliably, not just in a notebook.
 
