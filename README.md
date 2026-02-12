@@ -6,7 +6,7 @@ Environmental engineer turned data scientist. I enjoy the part most people skip:
 
 MSc Data Science, Birkbeck, University of London (January, 2026)
 
-London, UK · burcucglyn95@gmail.com · [LinkedIn](https://www.linkedin.com/in/burcucglyn/)
+London, UK · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burcucglyn/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:burcucglyn95@gmail.com)
 
 ------
 
