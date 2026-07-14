@@ -1,4 +1,4 @@
-# Hi, I'm Burdzhu!
+# Hi, I'm Burcu!
 [**Click here to access my page.**](https://burcucglyn.github.io)
 
 
